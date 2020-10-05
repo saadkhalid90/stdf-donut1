@@ -1,7 +1,7 @@
 const question = "Does your organization subcontract third party for inspection?"
 const data = [
-  {head: "Yes", value: 19},
-  {head: "No", value: 33},
+  {head: "Yes", value: 20},
+  {head: "No", value: 34},
   {head: "No, but considering for the future", value: 7},
   {head: "Don't know", value: 1},
 ];
